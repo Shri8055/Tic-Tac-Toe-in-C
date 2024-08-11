@@ -1,0 +1,1 @@
+1) make a gui of grid,X,O
